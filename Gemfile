@@ -11,6 +11,8 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'cucumber-rails'
   gem 'webrat'
+  gem 'capybara'
+  gem 'database_cleaner'
 end
 
 # Use unicorn as the web server
